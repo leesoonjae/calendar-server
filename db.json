@@ -1,9 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "posts": [{
+      "id": "9a6decb2-ac38-43f8-b7b2-e084b7c6d415",
+      "title": "123123",
+      "userId": "정하나",
+      "date": "2022-11-29",
+      "desc": "123123",
+      "comments": [
+        {
+          "id": "9a6decb2-ac38-43f8-b7b2-e084b7c6d415",
+          "commentId": "1f276408-1cb9-41b0-b41f-6aa1765b0fa4",
+          "name": "12312",
+          "password": "3132",
+          "comment": "312",
+          "date": "function toISOString() { [native code] }"
+        }
+      ]
 }
